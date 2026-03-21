@@ -24,7 +24,7 @@
 ### 🗂️ Полный пак «All-in-One»
 | Версия | Дата | Ссылка |
 |--------|------|--------|
-| **v1.14** | Март 2026 | [📦 Скачать ZIP](../../releases) |
+| **v1.13** | Март 2026 | [📦 Скачать ZIP](../../releases) |
 | **v1.13** | Март 2026 | [🗄️ Архив на Google Drive](https://drive.google.com/drive/u/1/folders/192-UngH4EvO5mabyZFV6fZUzyZZJjl7j) |
 
 > 💡 **Совет**: Актуальные релизы доступны во вкладке **[Releases](../../releases)**.
